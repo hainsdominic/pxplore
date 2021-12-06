@@ -2,3 +2,5 @@ __pycache__/
 pxplore.egg-info
 .DS_Store
 data.json
+*.ipynb
+.ipynb_checkpoints
